@@ -1,0 +1,8 @@
+.tienda{
+    background-image:url("https://firebasestorage.googleapis.com/v0/b/musicasph-be862.appspot.com/o/portadatienda.jpg?alt=media&token=2859a54d-0faf-4141-abbb-4b0d215ba505") ;
+    background-size: cover;
+    background-position: top center;
+    background-attachment:fixed ;
+    padding: 20%;
+
+}
