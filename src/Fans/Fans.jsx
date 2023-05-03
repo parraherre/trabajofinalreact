@@ -6,7 +6,7 @@ export function Fans(){
                 <div className="fondo mb-5">
                     <div className="container">
                         <div className="row">
-                            <div className="col-12 col-md-5 mt-3">
+                            <div className="col-12 col-md-12 mt-3">
                                 <form>
                                     <label htmlFor="usuario" className="form-label text-white">Usuario</label>
                                     <div className="input-group mb-3">
@@ -28,20 +28,7 @@ export function Fans(){
                                     <button type="submit" class="btn btn-success">Iniciar sesion</button>
                                 </form>
                             </div>
-                            <div className="col-12 col-md-2 mt-3 "></div>
-                            <div className="col-12 col-md-5 mt-3 text-white">
-                                <form>
-                                <input type="radio" className="mt-3"/>¿Que dia murio avicii?
-                                <br />
-                                <input type="radio" className="mt-3"/>¿Cual fue su mayor exito?
-                                <br />
-                                <input type="radio" className="mt-3" />¿Cual es la cancion que colaboro con feat. Aloe Blacc?
-                                <br />
-                                <input type="radio" className="mt-3" />Cancion favorita de avicii
-                                <br />
-                                <input type="radio" className="mt-3" />Que cancion fue la que colaboro avicii con ft. Rita Ora
-                                </form>
-                            </div>
+                            
                         </div>
                         <div className="row mt-3">
                             <div className="col-12 col-md-4 mt-3 text-white">
