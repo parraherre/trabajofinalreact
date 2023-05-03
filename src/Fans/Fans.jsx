@@ -29,16 +29,60 @@ export function Fans(){
                                 </form>
                             </div>
                             <div className="col-12 col-md-2 mt-3 "></div>
-                            <div className="col-12 col-md-5 mt-3">
-                                <h5 className="text-white">¿Que dia murio avicii?</h5>
+                            <div className="col-12 col-md-5 mt-3 text-white">
+                                <form>
+                                <input type="radio" className="mt-3"/>¿Que dia murio avicii?
                                 <br />
-                                <h5 className="text-white">¿Cual fue su mayor exito?</h5>
+                                <input type="radio" className="mt-3"/>¿Cual fue su mayor exito?
                                 <br />
-                                <h5 className="text-white">¿Cual es la cancion que colaboro con feat. Aloe Blacc?</h5>
+                                <input type="radio" className="mt-3" />¿Cual es la cancion que colaboro con feat. Aloe Blacc?
                                 <br />
-                                <h5 className="text-white">Cancion favorita de avicii</h5>
+                                <input type="radio" className="mt-3" />Cancion favorita de avicii
                                 <br />
-                                <h5 className="text-white">Que cancion fue la que colaboro avicii con ft. Rita Ora</h5>
+                                <input type="radio" className="mt-3" />Que cancion fue la que colaboro avicii con ft. Rita Ora
+                                </form>
+                            </div>
+                        </div>
+                        <div className="row mt-3">
+                            <div className="col-12 col-md-4 mt-3 text-white">
+                                <h5>¿Que dia murio avicii?</h5>
+                                <br />
+                                <input type="radio" className="mt-3"/>20 de abril de 2018
+                                <br />
+                                <input type="radio" className="mt-3"/>1 de abril de 2010
+                                <br />
+                                <input type="radio" className="mt-3"/>20 de enero de 2023
+                                <br />
+                            </div>
+                            <div className="col-12 col-md-4 mt-3 text-white">
+                                <h5>¿Cual fue su mayor exito?</h5>
+                                <br />
+                                <input type="radio" className="mt-3"/>Levels
+                                <br />
+                                <input type="radio" className="mt-3"/>hey brother
+                                <br />
+                                <input type="radio" className="mt-3"/>no se
+                            </div>
+                            <div className="col-12 col-md-4 mt-3 text-white">
+                                <h5>¿Cual es la cancion que colaboro con feat. Aloe Blacc?</h5>
+                                <br />
+                                <input type="radio" className="mt-3"/>Wake Me Up
+                                <br />
+                                <input type="radio" className="mt-3"/>hey brother
+                                <br />
+                                <input type="radio" className="mt-3"/>you make me
+                            </div>
+                            
+                        </div>
+                        <div className="row">
+                        <div className="col-12 col-md-4 mt-3 text-white">
+                                <h5>Que cancion colaboro con feat. Aluna George</h5>
+                                <br />
+                                <input type="radio" className="mt-3"/>Wake Me Up
+                                <br />
+                                <input type="radio" className="mt-3"/>What Would I Change It To
+                                <br />
+                                <input type="radio" className="mt-3"/>Lonely Together
                             </div>
                         </div>
                     </div>
