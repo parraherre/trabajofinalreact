@@ -1,0 +1,9 @@
+.segundario{
+    
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicasph-be862.appspot.com/o/fondomusica.jpg?alt=media&token=459b657a-3aae-437e-b608-f7820dfd113f");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    
+}

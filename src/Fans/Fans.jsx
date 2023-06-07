@@ -65,20 +65,20 @@ export function Fans(){
                         <div className="col-12 col-md-6 mt-3 text-white">
                                 <h5>Que cancion colaboro con feat. Aluna George</h5>
                                 <br />
-                                <input type="radio" className="mt-3"/>Wake Me Up
+                                <input class="form-check-input mt-0" type="radio"/>Wake Me Up
                                 <br />
-                                <input type="radio" className="mt-3"/>What Would I Change It To
+                                <input class="form-check-input mt-0" type="radio"/>What Would I Change It To
                                 <br />
-                                <input type="radio" className="mt-3"/>Lonely Together
+                                <input class="form-check-input mt-0" type="radio"/>Lonely Together
                             </div>
                             <div className="col-12 col-md-6 mt-3 text-white">
                                 <h5>Donde nacio avicii</h5>
                                 <br />
-                                <input type="radio" className="mt-3"/>Estocolmo, Suecia
+                                <input class="form-check-input mt-0" type="radio"/>Estocolmo, Suecia
                                 <br />
-                                <input type="radio" className="mt-3"/>Medellin,colombia
+                                <input class="form-check-input mt-0" type="radio"/>Medellin,colombia
                                 <br />
-                                <input type="radio" className="mt-3"/>los angeles,california
+                                <input tclass="form-check-input mt-0" type="radio"/>los angeles,california
                             </div>
                         </div>
                     </div>
